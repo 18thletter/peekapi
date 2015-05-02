@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/18thletter/peekapi/issues"
   },
-  "homepage": "https://github.com/18thletter/peekapi"
+  "homepage": "https://github.com/18thletter/peekapi",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
